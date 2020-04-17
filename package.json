@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "castv2-client": "^1.2.0",
+    "mdns": "^2.5.1",
     "prayer-times": "^0.1.0"
   },
   "devDependencies": {

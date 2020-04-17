@@ -7,4 +7,10 @@ Google Home speakers do not support scheduled events, for example if i want a fi
 
 This script gets around the shortcoming, by moving the scheduling part to a computer. You can run it as a scheduled job on an always ON computer.
 
+# Usage
+ ```sh
+  npm install 
+  npm start
+ ```
+You can schedule the script to automatically run via cron job.
 
